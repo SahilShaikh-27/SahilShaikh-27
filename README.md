@@ -14,9 +14,9 @@
 
 AI student with hands-on experience in full-stack web development and backend programming. I build with **Java, Spring Boot, React, Node.js, and SQL**, and I like projects that go from idea to something actually running.
 
-- 🔭 Currently working on **Aero-Sense**, an AQI prediction and visualization app
-- 🌱 Also exploring ML basics — LSTM/ARIMA and Random Forest
-- 📫 Reach me at **shaikhsahil170816@gmail.com** or [LinkedIn](https://linkedin.com/in/sahil-shaikh-0430712b2)
+-  Currently working on **Aero-Sense**, an AQI prediction and visualization app
+-  Also exploring ML basics — LSTM/ARIMA and Random Forest
+-  Reach me at **shaikhsahil170816@gmail.com** or [LinkedIn](https://linkedin.com/in/sahil-shaikh-0430712b2)
 
 <br>
 
