@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:0F3D24&height=200&section=header&text=%7B+SAHIL.SHAIKH+%7D&fontSize=40&fontColor=00FF9C&animation=twinkling&fontAlignY=42&desc=AI%20%2F%20Full-Stack%20Developer&descAlignY=62&descSize=17&descColor=6FFFC0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:145A32,100:000000&height=200&section=header&text=SAHIL%20SHAIKH&fontSize=46&fontColor=00FF9C&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20Full-Stack%20Developer&descAlignY=62&descSize=17&descColor=6FFFC0" width="100%" />
 
 <br>
 
@@ -59,6 +59,6 @@ exploring   : applied ML fundamentals
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F3D24,100:000000&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:145A32,100:000000&height=90&section=footer" width="100%" />
 
 </div>
