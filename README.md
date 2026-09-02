@@ -21,7 +21,7 @@ side and React/Node on the front, with some ML on top
 currently   : building Aero-Sense (AQI prediction + viz)
 exploring   : applied ML fundamentals
 contact     : shaikhsahil170816@gmail.com
-linkedin    : in/sahil-shaikh-0430712b2
+linkedin    : https://www.linkedin.com/in/sahil-shaikh-0430712b2/
 ```
 
 <br>
