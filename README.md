@@ -1,61 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:145A32&height=220&section=header&text=Sahil%20Shaikh&fontSize=48&fontColor=00E676&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=B8FFD9" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:0F3D24&height=200&section=header&text=SAHIL%20SHAIKH&fontSize=42&fontColor=00FF9C&animation=twinkling&fontAlignY=42&desc=AI%20%2F%20Full-Stack%20Developer&descAlignY=62&descSize=17&descColor=6FFFC0" width="100%" />
 
-<a href="https://github.com/SahilShaikh-27">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=00E676&background=00000000&center=true&vCenter=true&width=700&lines=AI+student+%7C+Full-stack+developer;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Building+things+and+breaking+them+first" />
-</a>
-</a>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami;sahil+%E2%80%94+ai+%2F+full-stack+dev;%24+stack+--list;java+%C2%B7+spring+%C2%B7+react+%C2%B7+node;%24+status;shipping+aero-sense" />
 
 </div>
 
 <br>
 
-## About me
+```
+> about
+--------------------------------------------------
+AI student building full-stack products and backend
+systems. Working across Java/Spring Boot on the server
+side and React/Node on the front, with some ML on top
+(LSTM/ARIMA, Random Forest).
 
-AI student with hands-on experience in full-stack web development and backend programming. I build with **Java, Spring Boot, React, Node.js, and SQL**, and I like projects that go from idea to something actually running.
-
--  Currently working on **Aero-Sense**, an AQI prediction and visualization app
--  Also exploring ML basics — LSTM/ARIMA and Random Forest
--  Reach me at **shaikhsahil170816@gmail.com** or [LinkedIn](https://linkedin.com/in/sahil-shaikh-0430712b2)
+currently   : building Aero-Sense (AQI prediction + viz)
+exploring   : applied ML fundamentals
+contact     : shaikhsahil170816@gmail.com
+linkedin    : in/sahil-shaikh-0430712b2
+```
 
 <br>
 
-## Tech stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,python,js,html,css,mysql,git" />
+### stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,python,js,html,css,mysql,git&theme=dark" />
 
 </div>
 
 <br>
 
-## GitHub stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SahilShaikh-27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilShaikh-27&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9" width="30%" />
+### metrics
+
+<img src="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/main/metrics.svg" width="100%" />
 
 </div>
 
 <br>
 
-## Contribution snake
-
 <div align="center">
+
+### activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:145A32&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F3D24,100:000000&height=90&section=footer" width="100%" />
 
 </div>
