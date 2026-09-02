@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:145A32,100:000000&height=200&section=header&text=SAHIL%20SHAIKH&fontSize=46&fontColor=00FF9C&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20Full-Stack%20Developer&descAlignY=62&descSize=17&descColor=6FFFC0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0D2818,100:000000&height=170&section=header" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami;sahil+%E2%80%94+ai+%2F+full-stack+dev;%24+stack+--list;java+%C2%B7+spring+%C2%B7+react+%C2%B7+node;%24+status;shipping+aero-sense" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=4000&pause=100000&color=5DD39E&background=00000000&center=true&vCenter=true&width=500&lines=Sahil+Shaikh" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=400&size=16&pause=100000&color=8FEFC4&background=00000000&center=true&vCenter=true&width=500&lines=AI+%2F+Full-Stack+Developer" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=5DD39E&background=00000000&center=true&vCenter=true&width=650&lines=%24+whoami;sahil+%E2%80%94+ai+%2F+full-stack+dev;%24+stack+--list;java+%C2%B7+spring+%C2%B7+react+%C2%B7+node;%24+status;shipping+aero-sense" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=SahilShaikh-27&label=PROFILE+VIEWS&color=00FF9C&style=for-the-badge&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=SahilShaikh-27&label=PROFILE+VIEWS&color=0D2818&style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -30,8 +36,8 @@ exploring   : applied ML fundamentals
 
 <div align="center">
 
-<a href="mailto:shaikhsahil170816@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
-<a href="https://www.linkedin.com/in/sahil-shaikh-0430712b2/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
+<a href="mailto:shaikhsahil170816@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=5DD39E" /></a>
+<a href="https://www.linkedin.com/in/sahil-shaikh-0430712b2/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=5DD39E" /></a>
 
 </div>
 
@@ -59,6 +65,6 @@ exploring   : applied ML fundamentals
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:145A32,100:000000&height=90&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,50:0D2818,100:000000&height=90&section=footer" width="100%" />
 
 </div>
