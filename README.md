@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5AFE,100:7C4DFF&height=220&section=header&text=Sahil%20Shaikh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Full-Stack%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:145A32&height=220&section=header&text=Sahil%20Shaikh&fontSize=48&fontColor=00E676&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=B8FFD9" width="100%" />
 
 <a href="https://github.com/SahilShaikh-27">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=8C8CFF&center=true&vCenter=true&width=600&lines=AI+student+%7C+Full-stack+developer;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Building+things+and+breaking+them+first" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=22&pause=1000&color=00E676&background=00000000&center=true&vCenter=true&width=700&lines=AI+student+%7C+Full-stack+developer;Java+%C2%B7+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Building+things+and+breaking+them+first" />
+</a>
 </a>
 
 </div>
@@ -34,8 +35,8 @@ AI student with hands-on experience in full-stack web development and backend pr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SahilShaikh-27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilShaikh-27&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-readme-stats.vercel.app/api?username=SahilShaikh-27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E676&icon_color=00E676&text_color=C9D1D9&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilShaikh-27&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9" width="30%" />
 
 </div>
 
@@ -47,14 +48,14 @@ AI student with hands-on experience in full-stack web development and backend pr
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F5AFE,100:7C4DFF&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:145A32&height=100&section=footer" width="100%" />
 
 </div>
