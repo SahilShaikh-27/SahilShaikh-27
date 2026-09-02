@@ -21,7 +21,7 @@ side and React/Node on the front, with some ML on top
 currently   : building Aero-Sense (AQI prediction + viz)
 exploring   : applied ML fundamentals
 contact     : shaikhsahil170816@gmail.com
-linkedin    : https://www.linkedin.com/in/sahil-shaikh-0430712b2/
+linkedin    : in/sahil-shaikh-0430712b2
 ```
 
 <br>
@@ -31,16 +31,6 @@ linkedin    : https://www.linkedin.com/in/sahil-shaikh-0430712b2/
 ### stack
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,express,mongodb,python,js,html,css,mysql,git&theme=dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### metrics
-
-<img src="https://raw.githubusercontent.com/SahilShaikh-27/SahilShaikh-27/main/metrics.svg" width="100%" />
 
 </div>
 
